@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Linus Torvalds</title>
+</head>
+<body>
+
+<h1>Linus Torvalds</h1>
+<p>Linus Benedict Torvalds was born December 28, 1969.He is a Finnish American software engineer, who is the creator of the Linux kernel and for a long time, principal developer; that became the kernel for operating systems , such as GNU and years later Android and Chrome OS. He also created the distributed revision control system git. He was honored, along with Shinya Yamanaka, with the 2012 Millennium Technology Prize by the Technology Academy Finland "in recognition of his creation of a new open source operating system for computers leading to the widely used Linux kernel". He is also the recipient of the 2014 IEEE Computer Society Computer Pioneer Award.</p>
+
+<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9w_1taS5IobjTVAzbvYhXBtFvz4aGNvPIzPe6WGGJGQ2S8dOf"  width="160" height="220" align="right" >
+
+
+
+<h2>Early Years</h2>
+<p>Torvalds attended the University of Helsinki between 1988 and 1996, graduating with a master's degree in computer science from NODES research group. His academic career was interrupted after his first year of study when he joined the Finnish Army Uusimaa brigade, in the summer of 1989, selecting the 11-month officer training program to fulfill the mandatory military service of Finland. In the army he held the rank of Second Lieutenant, with the role of a ballistic calculation officer. Torvalds bought computer science professor Andrew Tanenbaum's book Operating Systems: Design and Implementation, in which Tanenbaum describes MINIX, an educational stripped-down version of Unix. The book changed Torvalds' life: he was fascinated by the clear structure of the Unix and its underlying philosophy. In 1990, he resumed his university studies, and was exposed to UNIX for the first time, in the form of a DEC MicroVAX running ULTRIX. His M.Sc. thesis was titled Linux: A Portable Operating System.</p>
+<p>Torvalds first encountered the GNU Project in 1991, after another Swedish-speaking computer science student Lars Wirzenius took him to the University of Technology to listen to free software-guru Richard Stallman's speech. Torvalds used Stallman's General Public License version 2 (GPLv2) for his Linux kernel.</p>
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Linus_Torvalds.jpeg" width="160" height="220" align"right">
+
+<h3>Later years</h3>
+<p>From 1997 to 1999, he was involved in 86open helping to choose the standard binary format for Linux and Unix. In 1999, he was named by the MIT Technology Review TR100 as one of the world's top 100 innovators under age 35.
+
+In 1999, Red Hat and VA Linux, both leading developers of Linux-based software, presented Torvalds with stock options in gratitude for his creation. That same year both companies went public and Torvalds' share value temporarily shot up to roughly US$20 million.
+
+His personal mascot is a penguin nicknamed Tux, which has been widely adopted by the Linux community as the mascot of the Linux kernel.
+<a href="url">link text</a>
+
+
+Although Torvalds believes "open source is the only right way to do software", he also has said that he uses the "best tool for the job", even if that includes proprietary software.He was criticized for his use and alleged advocacy of the proprietary BitKeeper software for version control in the Linux kernel. Torvalds subsequently wrote a free-software replacement for BitKeeper called git.
+
+In 2008, Torvalds stated that he used the Fedora distribution of Linux because it had fairly good support for the PowerPC processor architecture, which he had favored at the time. His usage of Fedora was confirmed in a later 2012 interview. He has also posted updates about his choice of desktop environment, often in response to perceived feature regressions.
+
+Currently, the Linux Foundation sponsors Torvalds so he can work full-time on improving Linux.</p>
+
+
+<br /><br /><br /><br />
+
+<h2><font size="4" face="Arial" color="red">Sources</font></h2>
+ 
+<a href="https://en.wikipedia.org/wiki/Linus_Torvalds">Wikipedia</a> 
+<br /><br /><br />
+
+ <a href="http://www.theregister.co.uk/2015/08/03/linus_torvalds_in_no_mood_to_be_polite_as_work_on_linux_42_drags/">TheRegister</a> 
+
+<br /><br /><br />
+
+ <a href="http://www.linfo.org/linus.html">Linfo</a> 
+
+</body>
+</html>
